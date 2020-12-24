@@ -1,6 +1,6 @@
-# pgen
+# Pgen
 
-password generator
+Pgen is password generator.
 
 ## Usage
 
