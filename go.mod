@@ -1,4 +1,4 @@
-module pgen
+module github.com/wooos/pgen
 
 go 1.13
 
